@@ -19,7 +19,7 @@ Recomendamos o uso das seguintes IDEs:
 - [Intellij](https://www.jetbrains.com/idea/download)
 
 
-Com o JDK instalado e, basta importar o projeto na sua IDE e executar a classe principal.
+Com o JDK instalado e, basta importar o projeto na sua IDE e executar a classe Loja.
 
 ## Como contribuir
 
